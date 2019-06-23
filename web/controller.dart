@@ -98,7 +98,7 @@ Future fuck() async {
     fucks ++;
     if(fucks==10) {
         div.append(machineThatSaysFuck);
-        querySelector('body').style.backgroundImage =  "url(../images/Memes/autoFucker.jpg)"; //.style.backgroundColor
+        querySelector('body').style.backgroundImage =  "url(images/Memes/autoFucker.jpg)"; //.style.backgroundColor
         div.style.backgroundColor = "white";
 
     }
