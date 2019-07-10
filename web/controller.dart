@@ -14,7 +14,7 @@ Random rand = new Random();
 int fucks = 1;
 ButtonElement machineThatSaysFuck;
 
-int maxAudioFuck = 6;
+int maxAudioFuck = 10;
 
 
 Future<Null> main() async {
